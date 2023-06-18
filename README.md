@@ -90,6 +90,8 @@ switch(input){
          }
          break;
  if book name(bk_nm) = book  which we have inserted in the database(a[i].book_name) then it displays all the info related to it.
+ 
+ 
         case 6:
           exit(0);
     it ends the program which is running.
